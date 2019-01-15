@@ -1,0 +1,116 @@
+.content {
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.left, .right {
+    width: 370px;
+    height: 460px;
+    float: left;
+}
+
+.left {
+    margin-left: 15px;
+}
+
+.middle {
+    width: 30px;
+    height: 460px;
+    float: left;
+}
+
+.button {
+    width: 100%;
+    height: 100%;
+    background-color: #755fc0;
+    color: #FFFFFF;
+}
+
+.searchCont {
+    width: 120px;
+    height: 20px;
+    float: left;
+    margin: 3px;
+}
+
+.searchBtn {
+    padding-top: 2px;
+}
+
+.l-Table {
+    padding-top: 38px;
+}
+
+.r-Table {
+    margin-top: 2px;
+}
+
+
+
+
+.top {
+    width: 770px;
+    height: 60px;
+    float: left;
+    margin-left: 15px;
+}
+
+.top-title {
+    width: 770px;
+    height: 30px;
+    text-align:center;
+    float: left;
+}
+
+.left-title {
+    width: 370px;
+    height: 30px;
+    text-align:center;
+    float: left;
+    background-color: #1c84c6;
+}
+.left-title h4 {
+    color: white;
+}
+
+.right-title {
+    width: 370px;
+    height: 30px;
+    text-align:center;
+    float: left;
+    margin-left: 28px;
+    background-color: #ec4758;
+}
+.right-title h4 {
+    color: white;
+}
+
+.left-Foot, .right-Foot {
+    width: 370px;
+    height: 30px;
+}
+.right-Foot button, .left-Foot button, .foot button {
+    width: 100%;
+    height: 100%;
+}
+
+.foot {
+    width: 370px;
+    height: 30px;
+    float: left;
+    margin-left: 220px;
+}
+
+/*
+.left-Foot, .right-Foot, .top, .middle, .left, .right{
+    border: 1px solid black;
+}*/
+
+.hidg {
+    width: 320px;
+    margin: 0 auto;
+    height: 568px;
+    position: relative;
+    /*overflow: hidden;*/
+}

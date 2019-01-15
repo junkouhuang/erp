@@ -1,0 +1,62 @@
+.content {
+    width: 880px;
+    height: 550px;
+    margin: 0 auto;
+}
+
+.top {
+     width: 878px;
+     height: 50px;
+     float: left;
+}
+.tilte {
+    width: 876px;
+    height: 20px;
+    float: left;
+    text-align:center;
+}
+.version, .code {
+    height: 50px;
+    float: left;
+    text-align:center;
+}
+.version {
+    width: 490px;
+    background-color: #1c84c6;
+}
+.code {
+    width: 378px;
+    margin-left: 10px;
+    background-color: #d4bb29;
+}
+
+
+.left {
+    width: 490px;
+    height: 450px;
+    float: left;
+}
+
+.right {
+    width: 378px;
+    height: 450px;
+    float: left;
+    margin-left: 10px;
+}
+
+.button {
+    width: 878px;
+    height: 50px;
+    float: left;
+    text-align:center;
+}
+.top-button {
+    width: 200px;
+    height: 40px;
+    margin: 5px 410px;
+}
+.binning, .single {
+    width:90px;
+    height: 40px;
+    float: left;
+}

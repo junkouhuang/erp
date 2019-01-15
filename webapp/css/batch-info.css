@@ -1,0 +1,38 @@
+.content {
+    width: 800px;
+    height: 380px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+h4 {
+    margin-top: 0px;
+}
+
+.baseInfo{
+    width: 800px;
+    height: 200px;
+    margin-bottom: 5px;
+    border: solid 1px black;
+}
+
+.bottom {
+    width: 800px;
+    height: 35px;
+    margin: 0 auto;
+    text-align:center;
+}
+
+.col {
+    width: 264px;
+    height: 160px;
+    float: left;
+}
+
+.col div {
+    margin-top: 10px;
+}
+
+.col:nth-child(3) {
+    border-right: none;
+}

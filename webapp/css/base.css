@@ -1,0 +1,34 @@
+
+.mb-1{margin-bottom:-1px;}
+.mb-0{margin-bottom:0;}
+.mt-0{margin-top:0!important;}
+.mt-5{margin-top:5px!important;}.mt-7{margin-top:7px;}.mt-10{margin-top:10px}.mt-15{margin-top:15px}.mt-20{margin-top:20px}.mt-25{margin-top:25px}.mt-30{margin-top:30px}.mt-35{margin-top:35px}.mt-40{margin-top:40px}.mt-50{margin-top:50px}
+.mb-5{margin-bottom:5px!important;}.mb-10{margin-bottom:10px}.mb-15{margin-bottom:15px}.mb-20{margin-bottom:20px}.mb-30{margin-bottom:30px}.mb-40{margin-bottom:40px}.mb-50{margin-bottom:50px}
+.ml-5{margin-left:5px!important;}.ml-10{margin-left:10px!important;}.ml-15{margin-left:15px}.ml-20{margin-left:20px}.ml-30{margin-left:30px}.ml-40{margin-left:40px}.ml-50{margin-left:50px}
+.mr-5{margin-right:5px!important;}.mr-10{margin-right:10px!important;}.mr-15{margin-right:15px}.mr-20{margin-right:20px}.mr-30{margin-right:30px}.mr-40{margin-right:40px}.mr-50{margin-right:50px}
+.p-0{padding:0!important;}
+.p-20{padding:0 20px 20px;}
+.p10{padding:5px 15px;}
+.p30{padding:2px 6px;}
+.p31{padding:0 6px; margin-bottom: 0; }
+.p-x{padding: 8px 16px 1px 3px;}
+.pt-5{padding-top:5px}.pt-7{padding-top:7px;}.pt-10{padding-top:10px}.pt-15{padding-top:15px}.pt-20{padding-top:20px}.pt-25{padding-top:25px}.pt-30{padding-top:30px}
+.pb-3{padding-bottom:3px} .pb-5{padding-bottom:5px}.pb-10{padding-bottom:10px}.pb-15{padding-bottom:15px}.pb-20{padding-bottom:20px}.pb-25{padding-bottom:25px}.pb-30{padding-bottom:30px}
+.pl-0{padding-left:0px!important}.pl-5{padding-left:5px!important;}.pl-10{padding-left:10px}.pl-15{padding-left:15px}.pl-20{padding-left:20px}.pl-25{padding-left:25px}.pl-30{padding-left:30px}
+.pr-0{padding-right:0px!important}.pr-5{padding-right:5px}.pr-10{padding-right:10px}.pr-15{padding-right:15px}.pr-20{padding-right:20px}.pr-25{padding-right:25px}.pr-30{padding-right:30px}
+.pd-5{padding:5px}.pd-10{padding:10px}.pd-15{padding:15px}.pd-20{padding:20px}.pd-25{padding:25px}.pd-30{padding:30px}.pd-40{padding:40px}
+.fs{width: 220px;float:left; background: #f9f9f9;}.ptn-11{position:relative;top:-11px;color: #1ab394;}.ptn-12{position:relative;color: #2e8cec;}.ptn-20{position:relative;top:-20px;color: #1ab394;}.dsp{display:inline-block;width:45%;}.ps{font-size: 12px;position: relative;top: 7px;}.ps a{color: #1ab394;}
+.bor {border:none;text-align: center;}
+.posit3{position: relative; top: 3px;}
+.posit2{position: relative; top: 2px;}
+.posit6{position: relative; top: 6px;}
+/*Tree-Map*/
+.treeMap  li {list-style: none;cursor: pointer;}
+.l-box {overflow: hidden; float: left;background:url(../img/tree.gif);cursor: pointer;}
+.l-expandable-open{background-position: 134px -89px;width: 20px;height: 20px;}
+.l-expandable-close{background-position: 134px -66px;width: 20px; height: 20px;}
+.l-tree-icon-folder-open{background-position: 20px -89px;width: 20px; height: 20px;}
+.l-tree-icon-folder{background-position: 44px -89px; width: 20px; height: 20px;}
+.l-note{background-position: 44px -89px;}
+.l-tree-icon{background-position: 44px -89px;}
+.l-children{display:none;}
